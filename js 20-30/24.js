@@ -19,7 +19,6 @@ const whereIsWaldo = array => {
     }
 }
 
-
 console.log(whereIsWaldo([
     ["A", "A", "A"],
     ["A", "A", "A"],
